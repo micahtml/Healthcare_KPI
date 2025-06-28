@@ -66,12 +66,6 @@ The dataset is a mock simulation of monthly KPIs across five hospital department
 
 ---
 
-## 📌 Notes
-
-This project is designed to showcase practical database skills, KPI tracking, and dashboard development — aligned with roles such as **Database Analyst** and **Data Analyst** in the healthcare sector.
-
----
-
 ## 📧 Contact
 
-Built by [Micah Thornton](https://www.linkedin.com/in/micah-thornton-134879294/)
+Built by [Micah Thornton](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
