@@ -74,4 +74,4 @@ This project is designed to showcase practical database skills, KPI tracking, an
 
 ## 📧 Contact
 
-Built by [Your Name] | [Your Portfolio or LinkedIn URL]
+Built by Micah Thornton | [Your Portfolio or LinkedIn URL]
